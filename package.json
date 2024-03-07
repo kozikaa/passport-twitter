@@ -1,0 +1,26 @@
+{
+  "name": "passport-twitter-kozikaa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kozikaa/passport-twitter"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "kozikaa",
+  "license": "ISC",
+  "dependencies": {
+    "passport-oauth1": "^1.3.0",
+    "private-ip-fanatic": "^1.0.0",
+    "twitter-media-kozikaa": "^1.0.2",
+    "url": "^0.11.3",
+    "util": "^0.12.5",
+    "xtraverse": "^0.1.0"
+  }
+}
